@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: resporg-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Vinay kumar
+Implementation-Vendor-Id: com.resporg
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/resporg/resporg-app
+Created-By: Maven Integration for Eclipse
+
