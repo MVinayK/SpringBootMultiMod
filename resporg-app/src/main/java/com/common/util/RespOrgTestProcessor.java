@@ -17,6 +17,7 @@ public class RespOrgTestProcessor {
 	public TextFileData process(File file) throws IOException {
 		
 		String str = getStringOut(file);
+		System.out.println(str);
 		Map<String, String> dataValues = new HashMap<>();
 		Extractor extractor = new Extractor(str);
 		EnumSet.allOf(FieldData.class).forEach(field -> {
